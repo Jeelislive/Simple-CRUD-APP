@@ -1,0 +1,15 @@
+{
+    "name": "urmil/api",
+    "autoload": {
+        "psr-4": {
+            "Urmil\\Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JEEL RUPARELIYA",
+            "email": "108856045+Jeelislive@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
