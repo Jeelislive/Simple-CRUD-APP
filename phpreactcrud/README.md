@@ -1,8 +1,24 @@
-# React + Vite
+# Simple CRUD App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack **Create-Read-Update-Delete** (CRUD) application built with **React + Vite** on the frontend and **PHP + MySQL** on the backend.  
+This project demonstrates basic database operations with a modern, responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
+- Add, view, edit, and delete records
+- Responsive and simple UI
+- REST-like PHP API for data handling
+- Easy to deploy and customize
+
+---
+
+## 🛠️ Tech Stack
+| Part        | Technology        |
+|-------------|--------------------|
+| Frontend    | **React**, **Vite** |
+| Backend     | **PHP** |
+| Database    | **MySQL** |
+| Styling     | CSS / Tailwind (if added) |
+
+---
